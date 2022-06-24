@@ -1,5 +1,5 @@
 
-<h1 align='center'>Material de estudos</h1>
+<h1 align='center'>IMC projeto</h1>
 
 <img src ='./Sem título.png'>
 
