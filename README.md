@@ -13,7 +13,7 @@
 
 <h2 align='center'>Sobre</h2>
 
-Projeto criado ultilizando o **REACT**. todos os dados ultilizados são oficiais .
+Projeto criado ultilizando o **REACT.JS** no intuito de aprimorar meus conhecimentos nesse framework. todos os dados ultilizados nesse projeto são oficiais .
 <br/>
 <br/>
 
